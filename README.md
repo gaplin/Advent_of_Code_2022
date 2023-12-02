@@ -25,4 +25,4 @@
 24. 
 25. 
 
-[AoC events](https://adventofcode.com/2023/events)
+[AoC events](https://adventofcode.com/2022/events)
